@@ -1,0 +1,7 @@
+6666-CYG:Renault:Megane:Negro:2002:2400
+5555-AAC:Seat:Ibiza:Blanco:2001:1800
+2222-BVN:Opel:Vectra:gris:2006:5000
+3333-FXT:Ford:Fiesta:Negro:2012:2400
+7777-ABC:Seat:Toledo:Verde:2001:1600
+1111-BHG:Opel:Astra:Blando:2007:5000
+4444-OPR:Kia:Carens:Gris:2009:2000
